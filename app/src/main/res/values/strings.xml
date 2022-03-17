@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DansLeCoin</string>
+    <string name="Title"><u>Dans le Coin</u></string>
+    <string name="textBienvenue">Bonjour ! Vous trouverez ici tout les bons plans du coin !</string>
+    <string name="lieu">Lieu :</string>
+</resources>
